@@ -1,0 +1,18 @@
+[
+  {
+    "company": "Baidu",
+    "role": "Research Intern, Natural Language Processing",
+    "time": "2024.11 - 2025.04",
+    "description": "Mentor: [Zheng-Yu Niu](https://scholar.google.com/citations?user=39NDcAcAAAAJ&hl=zh-CN) and [Xinchao Xu](https://aclanthology.org/people/xinchao-xu/unverified/)<br>Built a high-quality content-to-dialogue system and constructed tens of thousands of high-quality training samples for Erine and role-specialized models.",
+    "date": "2024-11-01",
+    "links": []
+  },
+  {
+    "company": "Meituan",
+    "role": "Research Intern, Search & Recommendation Platform, AI Applications Group",
+    "time": "2025.04 - Present",
+    "description": "Mentor: [Xiangrong Zhu](https://scholar.google.com/citations?user=949ZRQcAAAAJ&hl=zh-CN)<br>Performed RL-based post-training for a travel planning agent, improving large language model capabilities in a specialized domain.",
+    "date": "2025-04-01",
+    "links": []
+  }
+]

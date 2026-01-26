@@ -1,0 +1,32 @@
+[
+  {
+    "title": "ToolSpectrum: Towards Personalized Tool Utilization for Large Language Models",
+    "authors": "<b>Zihao Cheng</b>, Hongru Wang, Zeming Liu, Yuhang Guo, Yuanfang Guo, Yunhong Wang, and Haifeng Wang",
+    "venue": "ACL 2025 Findings",
+    "date": "2025-07-01",
+    "links": [
+      { "label": "Paper", "url": "https://arxiv.org/abs/2505.13176" },
+      { "label": "Code", "url": "https://github.com/BUAA-IRIP-LLM/ToolSpectrum" }
+    ]
+  },
+  {
+    "title": "A Chemical Autonomous Robotic Platform for End-to-End Synthesis of Nanoparticles",
+    "authors": "Fan Gao, Hongqiang Li, Zhilong Chen, Yunai Li, Shihao Nie, <b>Zihao Cheng</b>, Zeming Liu, Yuanfang Guo, Shumin Liu, Qizhen Qin, Zhengjian Li, Lisong Zhang, Han Hu, Cunjin Li, Liang Yang, Yunhong Wang, and Guangxu Chen",
+    "venue": "Nature Communications",
+    "date": "2025-01-01",
+    "links": [
+      { "label": "Paper", "url": "https://www.nature.com/articles/s41467-025-62994-2" },
+      { "label": "Code", "url": "https://github.com/Nano-Cheng/C-LAB/" }
+    ]
+  },
+  {
+    "title": "RepoDebug: Repository-Level Multi-Task and Multi-Language Debugging Evaluation of Large Language Models",
+    "authors": "Jingjing Liu, Zeming Liu, <b>Zihao Cheng</b>, Mengliang He, Xiaoming Shi, Yuhang Guo, Xiangrong Zhu, Yuanfang Guo, Yunhong Wang, and Haifeng Wang",
+    "venue": "EMNLP 2025 Findings",
+    "date": "2025-08-01",
+    "links": [
+      { "label": "Paper", "url": "https://arxiv.org/abs/2509.04078" },
+      { "label": "Code", "url": "https://github.com/BUAA-IRIP-LLM/RepoDebug" }
+    ]
+  }
+]

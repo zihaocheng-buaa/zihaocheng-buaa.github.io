@@ -1,0 +1,12 @@
+[
+  {
+    "title": "TCM-Eval: An Expert-Level Dynamic and Extensible Benchmark for Traditional Chinese Medicine",
+    "authors": "<b>Zihao Cheng</b>, Yuheng Lu, Huaiqian Ye, Zeming Liu, Minqi Wang, Jingjing Liu, Zihan Li, Wei Fan, Yuanfang Guo, Ruiji Fu, Shifeng She, Gang Wang, and Yunhong Wang",
+    "venue": "arXiv:2511.07148",
+    "date": "2025-11-01",
+    "links": [
+      { "label": "Paper", "url": "https://arxiv.org/abs/2511.07148" },
+      { "label": "Website", "url": "https://tcmeval.bamaidical.com" }
+    ]
+  }
+]
