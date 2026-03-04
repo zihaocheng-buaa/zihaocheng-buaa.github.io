@@ -28,5 +28,14 @@
       { "label": "Paper", "url": "https://arxiv.org/abs/2509.04078" },
       { "label": "Code", "url": "https://github.com/BUAA-IRIP-LLM/RepoDebug" }
     ]
+  },
+  {
+    "title": "Towards multi-language repository-level code generation: From-scratch to guided tasks",
+    "authors": "Jingjing Liu, Silin Li, Zeming Liu, <b>Zihao Cheng</b>, Yuhang Guo, Yuanfang Guo, Yunhong Wang, and Haifeng Wang",
+    "venue": "Neurocomputing",
+    "date": "2026-02-27",
+    "links": [
+      { "label": "Paper", "url": "https://www.sciencedirect.com/science/article/pii/S0925231226006016" }
+    ]
   }
 ]
