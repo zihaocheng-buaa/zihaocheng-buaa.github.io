@@ -1,6 +1,6 @@
 profile:
   name: "Zihao Cheng"
-  title: "PhD Student"
+  title: "Master Student"
   affiliation: "Beihang University (BUAA)"
   email: "chengzihao008 [at] gmail [dot] com"
   avatar: "./assets/img/zihao-cheng.jpg"
@@ -19,7 +19,7 @@ profile:
       icon: "fa fa-twitter"
 
 about: |
-  I am a PhD student at the School of Computer Science and Engineering,
+  I am a Master student at the School of Computer Science and Engineering,
   [Beihang University](https://www.buaa.edu.cn/) (BUAA),
   supervised by [Zeming Liu](https://zmliu-buaa.github.io/).
   My research interests focus on <span class="highlight">LLM-based Agent</span>,
