@@ -1,5 +1,14 @@
 [
   {
+    "title": "Mem<sup>2</sup>Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation",
+    "authors": "<b>Zihao Cheng</b>, Zeming Liu<sup>†</sup>, Yingyu Shan, Xinyi Wang, Xiangrong Zhu, Yunpu Ma, Hongru Wang, Yuhang Guo, Wei Lin, and Yunhong Wang",
+    "venue": "ACL 2026 Main",
+    "date": "2026-04-06",
+    "links": [
+      { "label": "Code", "url": "https://buaa-irip-llm.github.io/Mem2Evolve" }
+    ]
+  },
+  {
     "title": "ToolSpectrum: Towards Personalized Tool Utilization for Large Language Models",
     "authors": "<b>Zihao Cheng</b>, Hongru Wang, Zeming Liu, Yuhang Guo, Yuanfang Guo, Yunhong Wang, and Haifeng Wang",
     "venue": "ACL 2025 Findings",
