@@ -5,6 +5,7 @@
     "venue": "ACL 2026 Main",
     "date": "2026-04-06",
     "links": [
+      { "label": "Paper", "url": "https://arxiv.org/abs/2604.10923"},
       { "label": "Code", "url": "https://buaa-irip-llm.github.io/Mem2Evolve" }
     ]
   },
