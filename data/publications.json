@@ -1,7 +1,7 @@
 [
   {
     "title": "DocOS: A Benchmark for Proactive Document-Guided Actions in GUI Agents",
-    "authors": "Jingjing Liu, Ziye Huang, <b>Zihao Cheng</b>, Zeming Liu, Jiahong Wu, Yuhang Guo, Kehai Chen, Yunhong Wang, and Haifeng Wang",
+    "authors": "Jingjing Liu*, Ziye Huang, <b>Zihao Cheng</b>*, Zeming Liu, Jiahong Wu, Yuhang Guo, Kehai Chen, Yunhong Wang, and Haifeng Wang",
     "venue": "ICML 2026",
     "date": "2026-05-01",
     "links": []
