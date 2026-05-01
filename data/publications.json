@@ -1,12 +1,5 @@
 [
   {
-    "title": "DocOS: A Benchmark for Proactive Document-Guided Actions in GUI Agents",
-    "authors": "Jingjing Liu*, Ziye Huang, <b>Zihao Cheng</b>*, Zeming Liu, Jiahong Wu, Yuhang Guo, Kehai Chen, Yunhong Wang, and Haifeng Wang",
-    "venue": "ICML 2026",
-    "date": "2026-05-01",
-    "links": []
-  },
-  {
     "title": "Mem<sup>2</sup>Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation",
     "authors": "<b>Zihao Cheng</b>, Zeming Liu, Yingyu Shan, Xinyi Wang, Xiangrong Zhu, Yunpu Ma, Hongru Wang, Yuhang Guo, Wei Lin, and Yunhong Wang",
     "venue": "ACL 2026 Main",
@@ -25,6 +18,13 @@
       { "label": "Paper", "url": "https://arxiv.org/abs/2505.13176" },
       { "label": "Code", "url": "https://github.com/BUAA-IRIP-LLM/ToolSpectrum" }
     ]
+  },
+  {
+    "title": "DocOS: A Benchmark for Proactive Document-Guided Actions in GUI Agents",
+    "authors": "Jingjing Liu*, Ziye Huang, <b>Zihao Cheng</b>*, Zeming Liu, Jiahong Wu, Yuhang Guo, Kehai Chen, Yunhong Wang, and Haifeng Wang",
+    "venue": "ICML 2026",
+    "date": "2026-05-01",
+    "links": []
   },
   {
     "title": "A Chemical Autonomous Robotic Platform for End-to-End Synthesis of Nanoparticles",
