@@ -1,5 +1,14 @@
 [
   {
+    "title": "Terminal-World: Scaling Terminal-Agent Environments via Agent Skills",
+    "authors": "<b>Zihao Cheng</b>, Hongru Wang, Zeming Liu, Xinyi Wang, Xiangrong Zhu, Yuhang Guo, Wei Lin, Jeff Z. Pan, and Yunhong Wang",
+    "venue": "arXiv:2605.20876",
+    "date": "2025-05-27",
+    "links": [
+      { "label": "Paper", "url": "https://arxiv.org/abs/2605.20876" }
+    ]
+  },
+  {
     "title": "TCM-Eval: An Expert-Level Dynamic and Extensible Benchmark for Traditional Chinese Medicine",
     "authors": "<b>Zihao Cheng</b>, Yuheng Lu, Huaiqian Ye, Zeming Liu, Minqi Wang, Jingjing Liu, Zihan Li, Wei Fan, Yuanfang Guo, Ruiji Fu, Shifeng She, Gang Wang, and Yunhong Wang",
     "venue": "arXiv:2511.07148",
