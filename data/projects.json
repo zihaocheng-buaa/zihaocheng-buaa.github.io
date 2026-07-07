@@ -3,15 +3,15 @@
     "company": "Baidu",
     "role": "Research Intern, Natural Language Processing",
     "time": "2024.11 - 2025.04",
-    "description": "Mentor: [Zheng-Yu Niu](https://scholar.google.com/citations?user=39NDcAcAAAAJ&hl=zh-CN) and [Xinchao Xu](https://aclanthology.org/people/xinchao-xu/unverified/)<br>Built a high-quality content-to-dialogue system and constructed tens of thousands of high-quality training samples for Erine and role-specialized models.",
+    "description": "Mentor: [Zheng-Yu Niu](https://scholar.google.com/citations?user=39NDcAcAAAAJ&hl=zh-CN) and [Xinchao Xu](https://aclanthology.org/people/xinchao-xu/unverified/)<br>Explored systems for automatically converting novels, scripts, and blogs into multi-turn dialogue; built multi-agent workflows for automated character-dialogue extraction, scene segmentation, and narration/action construction, extracting tens of thousands of high-quality training samples from web fiction, fantasy novels, and stage scripts to support single- and multi-character role-play tasks and improve specialized role-play model performance.",
     "date": "2024-11-01",
     "links": []
   },
   {
     "company": "Meituan",
-    "role": "Research Intern, Search & Recommendation Platform, AI Applications Group",
+    "role": "Agent Algorithm Intern, Agentic System X (ASX)",
     "time": "2025.04 - Present",
-    "description": "Mentor: [Xiangrong Zhu](https://scholar.google.com/citations?user=949ZRQcAAAAJ&hl=zh-CN)<br>Performed RL-based post-training for a travel planning agent, improving large language model capabilities in a specialized domain.",
+    "description": "Mentor: [Xiangrong Zhu](https://scholar.google.com/citations?user=949ZRQcAAAAJ&hl=zh-CN)<br>• **Agent Self-Evolution**: Participated in building the Mem²Evolve self-evolving agent framework, designing trajectory parsing, success/failure trajectory distillation, capability-gap identification, and tool/expert-agent auto-creation & reuse pipelines to close the loop between agent capability expansion and experience accumulation.<br>• **Terminal Data Synthesis**: Built a large-scale pipeline for synthesizing Terminal-Agent training environments, parsing task objectives, applicable conditions, execution steps, executable terminal environments, verification mechanisms, and teacher trajectories from publicly available Agent Skills.<br>• **Travel-Planning Agent RL Post-training**: Built a post-training system for a travel-planning agent, constructing a POI knowledge base (attractions, hotels, restaurants) and multi-granularity search tools via the MCP protocol, and implementing multi-turn Agentic RL with VeRL to improve itinerary quality, trajectory completeness, and reasoning efficiency.",
     "date": "2025-04-01",
     "links": []
   }

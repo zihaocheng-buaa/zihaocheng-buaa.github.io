@@ -9,7 +9,7 @@ profile:
       url: "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=yl5nPfQAAAAJ"
       icon: "fa fa-graduation-cap"
     - label: "GitHub"
-      url: "https://github.com/Chengziha0"
+      url: "https://github.com/zihaocheng-buaa"
       icon: "fa fa-github"
     - label: "ResearchGate"
       url: "https://www.researchgate.net/profile/Zihao-Cheng-7?ev=hdr_xprf"
@@ -30,7 +30,7 @@ about: |
 
   Before that, I received my B.E degree from  School of Computer and Communication Engineering,
   [ University of Science and Technology Beijing](https://www.ustb.edu.cn/) (USTB), China, in Jul. 2021.
-  I interned at Baidu NLP Group and Meituan Search & Recommendation Platform.
+  I interned at Baidu NLP Group and Meituan Agentic System X (ASX).
 
 nav:
   - id: preprints
@@ -41,8 +41,8 @@ nav:
     label: "Experience"
   - id: honors
     label: "Honors & Awards"
-  - id: activities
-    label: "Professional Activities"
+  # - id: activities
+  #   label: "Professional Activities"
 
 publications_url: "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=yl5nPfQAAAAJ"
 news_url: "#"
