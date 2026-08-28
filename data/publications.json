@@ -10,6 +10,16 @@
     ]
   },
   {
+    "title": "Behavior2Trip: Towards Personalized Travel Planning via User Behavior Trajectory",
+    "authors": "<b>Zihao Cheng</b>, Yingyu Shan, Hongru Wang, Zeming Liu, Xinyi Wang, Xiangrong Zhu, Yuhang Guo, Wei Lin, and Yunhong Wang",
+    "venue": "EMNLP 2026 Findings",
+    "date": "2026-08-21",
+    "links": [
+      { "label": "Paper", "url": "https://arxiv.org/abs/2608.26807" },
+      { "label": "Code", "url": "https://github.com/BUAA-IRIP-LLM/Behavior2Trip" }
+    ]
+  },
+  {
     "title": "ToolSpectrum: Towards Personalized Tool Utilization for Large Language Models",
     "authors": "<b>Zihao Cheng</b>, Hongru Wang, Zeming Liu, Yuhang Guo, Yuanfang Guo, Yunhong Wang, and Haifeng Wang",
     "venue": "ACL 2025 Findings",
@@ -27,6 +37,22 @@
     "links": [
       { "label": "Paper", "url": "https://arxiv.org/abs/2605.18048" },
       { "label": "Code", "url": "https://github.com/BUAA-IRIP-LLM/DocOS" }
+    ]
+  },
+  {
+    "title": "JavisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition",
+    "authors": "Zixiang Chen, Yuheng Lu, <b>Zihao Cheng</b>, Zeming Liu, Jizeng Bai, Ziye Huang, Zhiyin Lin, Zihan Li, Yuhang Guo, Yunhong Wang, and Haifeng Wang",
+    "venue": "EMNLP 2026 Main",
+    "date": "2026-08-21",
+    "links": []
+  },
+  {
+    "title": "Learning from Own Solutions: Self-Conditioned Credit Assignment for Reinforcement Learning with Verifiable Rewards",
+    "authors": "Yingyu Shan, Yuhang Guo, <b>Zihao Cheng</b>, Zeming Liu, Xiangrong Zhu, Xinyi Wang, Jiashu Yao, Wei Lin, Hongru Wang, and Heyan Huang",
+    "venue": "EMNLP 2026 Findings",
+    "date": "2026-08-21",
+    "links": [
+      { "label": "Paper", "url": "https://arxiv.org/abs/2606.18810" }
     ]
   },
   {
