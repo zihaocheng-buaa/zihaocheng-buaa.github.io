@@ -1,5 +1,15 @@
 [
   {
+    "title": "Theory of Agent: The Science of Internalization and Externalization for LLM-based Agents",
+    "authors": "<b>Zihao Cheng</b>, Yixia Li, Shengbin Yue, Yuheng Lu, Yuli Qiu, Yanzhi Tian, Haohuinan Zhang, Cheng Qian, Hongru Wang, Guanhua Chen, Zeming Liu, Yuhang Guo, Zhongyu Wei, Ke Gu, Liang Li, Jeff Z. Pan, Amos Storkey, Yunhong Wang, and Haifeng Wang",
+    "venue": "Preprint",
+    "date": "2026-09-07",
+    "links": [
+      { "label": "Paper", "url": "https://www.preprints.org/manuscript/202609.0308" },
+      { "label": "Code", "url": "https://github.com/BUAA-IRIP-LLM/Awesome-LLM-Powered-Agent" }
+    ]
+  },
+  {
     "title": "Terminal-World: Scaling Terminal-Agent Environments via Agent Skills",
     "authors": "<b>Zihao Cheng</b>, Hongru Wang, Zeming Liu, Xinyi Wang, Xiangrong Zhu, Yuhang Guo, Wei Lin, Jeff Z. Pan, and Yunhong Wang",
     "venue": "arXiv:2605.20876",

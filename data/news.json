@@ -1,5 +1,9 @@
 [
   {
+    "date": "2026-09-07",
+    "content": "We are excited to release our survey on Theory of Agent! This is the first survey on Agent internalization and externalization. [Paper](https://www.preprints.org/manuscript/202609.0308) / [Code](https://github.com/BUAA-IRIP-LLM/Awesome-LLM-Powered-Agent)"
+  },
+  {
     "date": "2026-08-21",
     "content": "We have 3 papers accepted by EMNLP 2026, including 1 Main and 2 Findings!"
   },
