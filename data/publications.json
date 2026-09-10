@@ -40,11 +40,14 @@
     ]
   },
   {
-    "title": "JavisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition",
+    "title": "JARVISGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition",
     "authors": "Zixiang Chen, Yuheng Lu, <b>Zihao Cheng</b>, Zeming Liu, Jizeng Bai, Ziye Huang, Zhiyin Lin, Zihan Li, Yuhang Guo, Yunhong Wang, and Haifeng Wang",
     "venue": "EMNLP 2026 Main",
     "date": "2026-08-21",
-    "links": []
+    "links": [
+      { "label": "Paper", "url": "https://arxiv.org/abs/2609.10451" },
+      { "label": "Code", "url": "https://github.com/BUAA-IRIP-LLM/JarvisGUI" }
+    ]
   },
   {
     "title": "Learning from Own Solutions: Self-Conditioned Credit Assignment for Reinforcement Learning with Verifiable Rewards",
@@ -52,7 +55,8 @@
     "venue": "EMNLP 2026 Findings",
     "date": "2026-08-21",
     "links": [
-      { "label": "Paper", "url": "https://arxiv.org/abs/2606.18810" }
+      { "label": "Paper", "url": "https://arxiv.org/abs/2606.18810" },
+      { "label": "Code", "url": "https://github.com/BITHLP/SC-GRPO" }
     ]
   },
   {
